@@ -1,0 +1,2 @@
+flask
+ctransformers==0.2.5
